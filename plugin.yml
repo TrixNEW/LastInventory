@@ -1,0 +1,5 @@
+name: LastInventory
+main: trix\Main
+version: 1.0.0
+api: 3.11.6
+author: trix
